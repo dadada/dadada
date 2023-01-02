@@ -2,12 +2,7 @@
 
 See [git.dadada.li](https://git.dadada.li) for a more complete list of my past and present projects.
 
-My educational background is mostly in computer networks and protocol design and analysis. Right now, I build apps and infrastructure at [IServ GmbH](https://github.com/IServ-GmbH). Other interests include:
-
-- 📱 Android and iOS Apps
-- 🍲 Writing and trying out new recipes
-- ❄️ Nix and NixOS
-- 🦀 Rust and Go programming
+My background is mostly in computer networks. Right now, I am working on my master's theses. ✈️
 
 ---
 
