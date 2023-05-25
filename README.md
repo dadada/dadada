@@ -1,8 +1,6 @@
 # Hi, I'm Tim ✨
 
-See [git.dadada.li](https://git.dadada.li) for a more complete list of my past and present projects.
-
-My background is mostly in computer networks. Right now, I am working on my master's theses. ✈️
+My background is mostly in computer networks and embedded systems and I have approximate knowledge of many things. ✈️
 
 ---
 
