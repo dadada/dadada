@@ -2,7 +2,7 @@
 
 My background is mostly in computer networks and embedded systems and I have approximate knowledge of many things. ✈️
 
-For my past and present private projects please see [my private code repo](https://git.dadada.li/dadada).
+For my past and present private projects please see [my private code repo](https://codeberg.org/dadada).
 
 ---
 
